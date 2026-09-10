@@ -1,6 +1,6 @@
 
 """
-Project J.A.R.V.I.S by Mayank Jangra (Gesture Interface V3)
+Project AirCursor by Mayank Jangra (Gesture Interface V3)
 Start here.
 """
 import sys
